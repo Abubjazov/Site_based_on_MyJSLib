@@ -34,3 +34,9 @@ input {
     border: 1px solid rgba(0, 0, 0, .2);
     border-radius: 4px;
 }
+
+footer {
+    margin-top: 40px;
+    height: 80px;
+    background-color: #000;
+}
